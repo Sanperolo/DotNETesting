@@ -168,4 +168,4 @@ where
 
 ## License
 
-[MIT © Rafael García, Miguel Ángel.](./LICENSE)
+[MIT © Miguel Ángel, Linda Li, Adam Strasák.](./LICENSE)
